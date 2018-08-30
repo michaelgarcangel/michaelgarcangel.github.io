@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Field Training 2018
+permalink: projects/field_training_2018
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-18
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Military Life
+  - ROTC
+  - Professional Development
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
