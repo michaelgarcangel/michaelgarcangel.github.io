@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/FTMax1.png
+image: images/FTMax1.jpg
 title: Field Training 2018
 permalink: projects/field_training_2018
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: An entry on my Summer training experience for Air Force ROTC in Maxwell AFB, AL.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/FTMax1.png">
+<img class="ui medium right floated rounded image" src="../images/FTMax1.jpg">
 
 Field Training is a 13-day simluated-stress environment set in Maxwell Air Force Base, in Alabama. The program takes place as a test of grit and resiliency while serving as a way to measure a Cadet's ability to adapt to changing environments while still being an effective leader and follower. For the entire duration of training, we turned in all of our electronic devices and cut off all contact with the outside world with receiving letters from friends and family being the only exception. 
 
