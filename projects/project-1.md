@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/shogunBike.jpg
 title: Motorized Bikes
 permalink: projects/motorized_bikes
 # All dates must be YYYY-MM-DD format!
@@ -14,10 +14,10 @@ summary: I built a motorized cruiser bicycle with a real gas engine.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/bikeEngine.jpg">
+  <img class="ui image" src="../images/shogunBike.jpg">
+  <img class="ui image" src="../images/blueKent.jpg">
+  <img class="ui image" src="../images/redKent.jpg">
 </div>
 
 Over the summer I started a small bike-building business for people interested in coverting their existing bicycles into motorized modes of transportation. I have had a year of experience building these bikes from the time I started taking orders and making money off of my builds. Building the bikes were very simple, but were also very time-consuming. With the process being so straightforward: mounting the sprocket onto the back wheel, mounting the motor and attaching the chain, then finally setting up the throttle and carburetor and exhaust manifolds was a very simple process. However, the process of fine tuning the bike to be safe to ride and to use on the street was a more complicated procedeure.
