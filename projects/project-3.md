@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/arnies314.jpg
 title: Arnold Air Society
 permalink: projects/arnold_air_society
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A National Honor Society recognized by the USAF.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/arnies314.jpg">
 
 Arnold Air Society is a professional, honorary, service organization advocating the support of aerospace power. I joined the program in the first semester of my ROTC career at UH Manoa. Since then I have moved through many different operational positions throughout the squadron. In doing so, I eventually ran to be elected as the Squadron Commander for the Lieutenant Colonel Horace Meek Hickam Squadron at the Detachment.
 
