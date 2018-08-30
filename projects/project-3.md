@@ -5,7 +5,7 @@ image: images/arnies314.jpg
 title: Arnold Air Society
 permalink: projects/arnold_air_society
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-12
+date: 2018-06-12
 labels:
   - Air Force Association
   - Honor Society
