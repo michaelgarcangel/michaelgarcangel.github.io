@@ -2,11 +2,11 @@
   "basics": {
     "name": "Michael Arcangel",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/31960169_1413918288714533_3059119035288387584_o.jpg",
+    "picture": "https://techfolios.github.io/images/31960169_1413918288714533_3059119035288387584_o.jpg",
     "email": "mgarcang@hawaii.edu",
     "phone": "",
     "website": "https://michaelgarcangel.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,17 +17,17 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "michaelgarcangel",
+        "url": "http://github.com/michaelgarcangel"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Michael Arcangel",
+        "url": "https://www.linkedin.com/in/michael-arcangel-b6305316a/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
+        "network": "",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
