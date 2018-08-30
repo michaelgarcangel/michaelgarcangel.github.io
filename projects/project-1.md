@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Motorized Bikes
+permalink: projects/motorized_bikes
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
