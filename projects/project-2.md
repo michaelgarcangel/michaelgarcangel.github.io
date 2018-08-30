@@ -10,15 +10,11 @@ labels:
   - Military Life
   - ROTC
   - Professional Development
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An entry on my Summer training experience for Air Force ROTC in Maxwell AFB, AL.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Field Training is a 13-day simluated-stress environment set in Maxwell Air Force Base, in Alabama. The program takes place as a test of grit and resiliency while serving as a way to measure a Cadet's ability to adapt to changing environments while still being an effective leader and follower. For the entire duration of training, we turned in all of our electronic devices and cut off all contact with the outside world with receiving letters from friends and family being the only exception. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Training hours in Alabama lasted from 4 A.M. to 8 P.M. while the days were packed with non-stop training and scenarios to practice the different techniques and skills we learned throughout the time we had there. Being there was a massive test of my resilience and mental toughness, with each day challenging me to strive to perform better than the previous day. Having such a schedule and environment change to my daily lifestyle for an extended period of time really forced me to learn how to work with people and to live without technology as an essential part of life.
