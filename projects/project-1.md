@@ -5,12 +5,12 @@ image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-05-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Cycling
+  - Mechanical Work
+  - Transportation
+summary: I built a motorized cruiser bicycle with a real gas engine.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,9 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Over the summer I started a small bike-building business for people interested in coverting their existing bicycles into motorized modes of transportation. I have had a year of experience building these bikes from the time I started taking orders and making money off of my builds. Building the bikes were very simple, but were also very time-consuming. With the process being so straightforward: mounting the sprocket onto the back wheel, mounting the motor and attaching the chain, then finally setting up the throttle and carburetor and exhaust manifolds was a very simple process. However, the process of fine tuning the bike to be safe to ride and to use on the street was a more complicated procedeure.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+There were countless times where the parts I ordered online were not machined properly, had poor production quality, or were outright defective right out of the packaging it came in. Mounting sprockets that would not sit cenetered on the hub of the rear wheel, assembling carburetors that were not correctly made before shipping, and fine tuning the clutch and intake systems of the engine before finally presenting the finished product to my customers took the most time out of the process.
 
 
 
