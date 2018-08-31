@@ -28,25 +28,25 @@
       {
         "network": "",
         "username": "",
-        "url": "http://twitter.com/changeme"
+        "url": "http://twitter.com/"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "computer gaming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "cryptocurrency",
       "keywords": [
       ]
     },
@@ -64,9 +64,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,21 +72,18 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-08",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.22",
       "courses": [
       ]
     }
@@ -148,10 +143,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Air Force ROTC Scholarship",
+      "date": "2016 - Present",
+      "awarder": "USAF AETC",
+      "summary": "Awarded to HSSP Program winners after national selection process and review board."
     },
     {
       "title": "First place",
