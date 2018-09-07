@@ -9,7 +9,7 @@ labels:
   - Coding
 ---
 
-<img class="ui tiny left circular floated image" src="../images/maxresdefault.jpg">
+<img class="ui tiny left circular floated image" src="../images/dev.jpg">
 
 ## Asking Smart Questions
 https://stackoverflow.com/questions/52214496/i-need-help-on-making-my-javascript-check-if-the-exe-is-running
