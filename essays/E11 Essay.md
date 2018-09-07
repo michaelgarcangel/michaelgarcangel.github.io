@@ -12,12 +12,12 @@ labels:
 <img class="ui tiny left circular floated image" src="../images/dev.jpg">
 
 ## Asking Smart Questions
-[Smart Question?] (https://stackoverflow.com/questions/52214496/i-need-help-on-making-my-javascript-check-if-the-exe-is-running)
+https://stackoverflow.com/questions/52214496/i-need-help-on-making-my-javascript-check-if-the-exe-is-running
 
 In my opinion, while this DOES violate some of the guidelines set by Raymond's essay, I think that this is a smartly asked question. The subject matter is very simple, and the problem is stated clearly. Yes, the developer could have taken the time to search for similar articles or have taken the time to do more homework and research about servers, but the question was simple enough to be answered with virtually no issues at all from a third party. While not entirely related, the contributor also lists the purpose of his inquiry, in order to provide a background and perhaps a platform in which other users may provide their own useful insights and solutions.
 
 ## Asking Not So Smart Questions
-[Not So Smart Question?] (https://stackoverflow.com/questions/52211303/java-rock-paper-game-loops-too-many-times)
+https://stackoverflow.com/questions/52211303/java-rock-paper-game-loops-too-many-times
 
 In this example, the developer does not take the time to simplify their code or even run test cases in order to attempt to debug the code themselves. They paste whatever their current code stands as and asks the community to answer the problem for them. According to Raymond, one of the fundamentals is being precise and informative about the problem. And in one of those bullets in that same section, also states that there should be diagnostic steps taken in order to fix the problem before asking the question. In the post, the developer does neither of these practices. The code is very lengthy and shows a lack of effort taken in order to solve the problem for themselves.
 
