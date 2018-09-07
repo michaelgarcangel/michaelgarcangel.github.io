@@ -18,6 +18,7 @@ In my opinion, while this DOES violate some of the guidelines set by Raymond's e
 
 ## Asking Not So Smart Questions
 https://stackoverflow.com/questions/52211303/java-rock-paper-game-loops-too-many-times
+
 In this example, the developer does not take the time to simplify their code or even run test cases in order to attempt to debug the code themselves. They paste whatever their current code stands as and asks the community to answer the problem for them. According to Raymond, one of the fundamentals is being precise and informative about the problem. And in one of those bullets in that same section, also states that there should be diagnostic steps taken in order to fix the problem before asking the question. In the post, the developer does neither of these practices. The code is very lengthy and shows a lack of effort taken in order to solve the problem for themselves.
 
 ## Smart Questions, Smart Software
