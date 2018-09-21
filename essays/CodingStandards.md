@@ -9,7 +9,7 @@ labels:
   - Coding
 ---
 
-<img class="ui tiny left circular floated image" src="../images/dev.jpg">
+<img class="ui tiny left circular floated image" src="../images/code.jpg">
 
 ## First Impressions
 Working with IntelliJ and ESLint has definitely been a 'Deja Vu' sensation. Having worked with Eclipse and Atom before in ICS 211 and ICS 212 gave me a taste of using IDEs in order to code. I definitely enjoy using IntelliJ over JSFiddle. While it took some getting used to in the beginning, IntelliJ has a multitude of benefits that JSFiddle definitely cannot compare to. Being able to have a code style format and syntax check gives me peace of mind while completing assignments while also holding me to a standard.
