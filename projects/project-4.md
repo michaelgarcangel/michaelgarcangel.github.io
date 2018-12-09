@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landing.png
 title: Onogrindzmanoa
-permalink: projects/motorized_bikes
+permalink: projects/onogrindzmanoa
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
