@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/shogunBike.jpg
 title: Motorized Bikes
-permalink: projects/project-1.md
+permalink: projects/motorized_bikes
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
