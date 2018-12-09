@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landing.png
 title: Onogrindzmanoa
-permalink: projects/onogrindzmanoa
+permalink: projects/project-4.md
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-06
 labels:
