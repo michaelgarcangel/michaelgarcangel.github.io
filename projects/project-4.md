@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/shogunBike.jpg
-title: Motorized Bikes
+image: images/landing.png
+title: Onogrindzmanoa
 permalink: projects/motorized_bikes
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
