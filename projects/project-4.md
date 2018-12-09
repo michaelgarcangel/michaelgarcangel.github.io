@@ -5,7 +5,7 @@ image: images/landing.png
 title: Onogrindzmanoa
 permalink: projects/onogrindzmanoa
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-01
+date: 2018-12-06
 labels:
   - Software Engineering
   - Web Design
