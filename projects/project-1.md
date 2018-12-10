@@ -24,5 +24,7 @@ Over the summer I started a bike-building business for people interested in cove
 
 There were countless times where the parts I ordered online were not machined properly, had poor production quality, or were outright defective right out of the packaging it came in. Mounting sprockets that would not sit cenetered on the hub of the rear wheel, assembling carburetors that were not correctly made before shipping, and fine tuning the clutch and intake systems of the engine before finally presenting the finished product to my customers took the most time out of the process.
 
+Throughout this entire experience, I learned the value of quality customer service and patience. Understanding that things will not always go as planned and to expect the unexpected has been a priceless tool for me to develop myself with. Many times, these assemblies did not go as smoothly as I would have liked, but that did not stop me from the ultimate completion of each bike. Being a generally better person overall is also something I have taken away from my Summer hobby. Often times, the people I ended up selling bikes to referred me to more customers and would come back for additional service based upon the quality of the initial transaction I had provided.
+
 
 
