@@ -79,12 +79,33 @@
     }
   ],
   "work": [
-    {}
+    {
+      "company": "CVS Health",
+      "position": "Cashier/Clerk",
+      "website": "",
+      "startDate": "2016-12-01",
+      "endDate": "2017-05-25",
+      "summary": "",
+      "highlights": [
+        "Operated register and assisted customers at front of store",
+        "Stocked shelves and updated sales tags"
+      ]
+    }
       
   ],
   "volunteer": [
     {
-      
+      "organization": "Arnold Air Society",
+      "website": "https://aas-sw.org/",
+      "position": "Squadron Commander - Lt Col Horace M. Hickam Squadron",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "summary": "Organize daily Squadron Operations, serve as connection to Area Command",
+      "highlights": [
+        "Lead volunteer activities",
+        "Advocate for support of aerospace power in community",
+        "Instill professionalism and leadership to community",
+      ]
     }
   ],
   "awards": [
@@ -95,11 +116,5 @@
       "summary": "Awarded to HSSP Program winners after national selection process and review board."
     },
     
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
