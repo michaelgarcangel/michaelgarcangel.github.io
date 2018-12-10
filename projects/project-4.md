@@ -12,6 +12,7 @@ labels:
   - Community
 summary: I was a member of a group in ICS 314 that was responsible for creating a website to help the UH Community find food.
 
+
 <img class="ui image" src="../images/landing.png">
 <img class="ui image" src="../images/list.png">
 <img class="ui image" src="../images/locations.png">
